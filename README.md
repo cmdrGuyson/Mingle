@@ -8,4 +8,4 @@ In-house university social media platform offering following features,
 	* Create groups
 	* Edit profiles
 
-<img src="server.png">
+<img src="screen.png">
