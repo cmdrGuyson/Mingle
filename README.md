@@ -1,5 +1,7 @@
 # Mingle
 
+`All rights for the source code and other related material are reserved`
+
 In-house university social media platform offering following features,
 
 	* Create posts
